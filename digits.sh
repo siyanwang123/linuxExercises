@@ -1,5 +1,4 @@
 #!/bin/bash
-
 sum=0
 for number in {1000..2000}; do
     number_str="$number"
